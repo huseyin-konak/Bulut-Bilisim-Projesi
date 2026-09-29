@@ -6,7 +6,7 @@
 
 [![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/r/huseyinkonak41/trivia-node)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestrated-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?logo=github-actions&logoColor=white)](https://github.com/keremyagmurr/Bulut-Bilisim-OrtakDepo/actions)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?logo=github-actions&logoColor=white)](https://github.com/huseyin-konak/Bulut-Bilisim-Projesi/tree/main/.github/workflows)
 [![Node.js](https://img.shields.io/badge/Node.js-20-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 
 ---
@@ -15,10 +15,10 @@
 
 | Öğrenci No | İsim | Rol | GitHub |
 |------------|------|-----|--------|
-| 22010310051 | **Hüseyin Konak** | Geliştirici & DevOps | [@huseyinkonak41](https://github.com/huseyinkonak41) |
+| 22010310051 | **Hüseyin Konak** | Geliştirici & DevOps | [@huseyin-konak](https://github.com/huseyin-konak) |
 | 22010310076 | **Kerem Yağmur** | Geliştirici & DevOps | [@keremyagmurr](https://github.com/keremyagmurr) |
 
-**GitHub Repo:** [Bulut-Bilisim-OrtakDepo](https://github.com/keremyagmurr/Bulut-Bilisim-OrtakDepo)  
+**GitHub Repo:** [huseyin-konak/Bulut-Bilisim-Projesi](https://github.com/huseyin-konak/Bulut-Bilisim-Projesi) (ekibin ortak geliştirme deposu özeldir; bu depo projenin herkese açık sürümüdür)  
 **Docker Hub:** [huseyinkonak41/trivia-node](https://hub.docker.com/r/huseyinkonak41/trivia-node)
 
 ---
